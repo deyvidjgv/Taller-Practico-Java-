@@ -1,4 +1,4 @@
-package seccion_2;
+package com.taller.practico;
 
     public class Debug3 {
         public static void main(String[] args){

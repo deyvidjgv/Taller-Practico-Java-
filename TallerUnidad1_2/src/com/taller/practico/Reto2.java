@@ -1,7 +1,7 @@
 package com.taller.practico;
 import java.util.Scanner;
 
-public class reto2 {
+public class Reto2 {
     public static void main(String[] args) {
         Scanner consola = new Scanner(System.in);
 

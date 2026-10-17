@@ -1,4 +1,4 @@
-package seccion_2;
+package com.taller.practico;
 import java.util.Scanner;
 
     public class EjercicioIntegrador {

@@ -1,7 +1,7 @@
 package com.taller.practico;
 import java.util.Scanner;
 
-public class ternario {
+public class Ternario {
     public static void main(String[] args) {
         Scanner consola = new Scanner(System.in);
 
